@@ -10,3 +10,5 @@
 
 - 프롬프트 템플릿의 구조
   > 지시사항, 사용자가 입력한 질문, 검색된 정보인 문맥
+
+![](https://blog.kakaocdn.net/dn/cFjPaH/btsDDZQbbF3/Cjz61kToKmCECPf5IB4NKK/img.png)
