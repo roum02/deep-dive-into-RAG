@@ -223,3 +223,8 @@ split
 4. 분할 결과 평가방법 정의 > 이건 잘 된거고 이건 잘 안 된거고 정의해야함. 평가 방법을 정의해야함.
 5. 4번에 의해 결과가 안 좋으면 계속 전략 변경
 6. 한번 잘 되어도 계속 감시해야함.
+
+\*\*\*\* 이모티콘이 포함한 지시를 넣으면 어텐션이 더 크게 먹는다?! 그래서 이모지 나오는듯 holy molly..... ...
+프롬프트 책 꼭 읽으세용
+
+<!-- https://docs.google.com/presentation/d/1uCDDYPRTZ3rza77BTg5K6XnfgeYGoeVwzsm1X3O4A3s/edit?slide=id.g36752c57757_0_140#slide=id.g36752c57757_0_140 -->
